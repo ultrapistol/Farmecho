@@ -1,0 +1,84 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ProjetoLogin.Apresentacao
+{
+    public partial class vendas : Form
+    {
+        public vendas()
+        {
+            InitializeComponent();
+        }
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-MT382KT\MSSQLSERVER01;Initial Catalog=ProjetoLogin;Integrated Security=True;Encrypt=False");
+
+        private void ExcluirClienteBttn_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Você tem certeza que quer apagar esta venda?", "Delet Document", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                int IdFatura = int.Parse(FaturaIdTxtbox.Text);
+
+
+                con.Open();
+                SqlCommand InsertOpen = new SqlCommand("SET IDENTITY_INSERT dbo.Fatura ON;");
+                SqlCommand c = new SqlCommand("EXEC DeleteVenda_SP '" + IdFatura + "'", con);
+                c.ExecuteNonQuery();
+                MessageBox.Show("Apagado com sucesso!");
+                
+                con.Close();
+                GetEmpList();
+
+            }
+        }
+
+            private void FaturaIdTxtBox_Load(object sender, EventArgs e)
+        {
+            // TODO: esta linha de código carrega dados na tabela 'projetoLoginDataSet.Produtos'. Você pode movê-la ou removê-la conforme necessário.
+            this.produtosTableAdapter.Fill(this.projetoLoginDataSet.Produtos);
+
+        }
+
+        private void CadastrarFaturaBttn_Click(object sender, EventArgs e)
+        {
+         
+            int IdFatura= int.Parse(FaturaIdTxtbox.Text);
+            DateTime DataFaturamento = FaturaDateTime.Value; 
+            con.Open();
+            SqlCommand InsertOpen = new SqlCommand("SET IDENTITY_INSERT dbo.Fatura ON;");
+            SqlCommand c = new SqlCommand("EXEC CadastrarFatura_SP '" + IdFatura +  "','" + DataFaturamento + "'", con);
+            c.ExecuteNonQuery();
+            MessageBox.Show("Cadastrado com sucesso!");
+            con.Close();
+            GetEmpList();
+        }
+
+        private void SalvarFaturaBttn_Click(object sender, EventArgs e)
+        {
+            int IdFatura = int.Parse(FaturaIdTxtbox.Text);
+            DateTime DataFaturamento = FaturaDateTime.Value;
+            con.Open();
+            SqlCommand InsertOpen = new SqlCommand("SET IDENTITY_INSERT dbo.Fatura ON;");
+            SqlCommand c = new SqlCommand("EXEC UpdateVenda_SP '" + IdFatura + "','" + DataFaturamento + "'", con);
+            c.ExecuteNonQuery();
+            MessageBox.Show("Cadastrado com sucesso!");
+            con.Close();
+            GetEmpList();
+        }
+
+        void GetEmpList()
+        {
+            SqlCommand c = new SqlCommand("EXEC ListVenda_SP", con);
+            SqlDataAdapter sd = new SqlDataAdapter(c);
+            DataTable dt = new DataTable();
+            sd.Fill(dt);
+            CarrinhoDataGridView.DataSource = dt;
+        }
+    }
+}
