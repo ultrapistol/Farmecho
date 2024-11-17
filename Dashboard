@@ -1,0 +1,63 @@
+using LiveCharts;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ProjetoLogin.Apresentacao
+{
+    public partial class FormDashboard : Form
+    {
+        public FormDashboard()
+        {
+            InitializeComponent();
+
+        }
+        private DateTime stardDate;
+        private DateTime endDate;
+        private int numberDays;
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-MT382KT\MSSQLSERVER01;Initial Catalog=ProjetoLogin;Integrated Security=True;Encrypt=False");
+
+        public int NumCustomers { get; private set; }
+        public int NumOrders { get; private set; }
+
+        public List<KeyValuePair<string, int>> TopProductsList { get; private set; }
+        public List<KeyValuePair<string, int>> UnderstockProductsList { get; private set; }
+
+        private void FormDashboard_Load(object sender, EventArgs e)
+        {
+            // TODO: esta linha de código carrega dados na tabela 'projetoLoginDataSet5.Clientes'. Você pode movê-la ou removê-la conforme necessário.
+            this.clientesTableAdapter1.Fill(this.projetoLoginDataSet5.Clientes);
+            // TODO: esta linha de código carrega dados na tabela 'projetoLoginDataSet4.Produtos'. Você pode movê-la ou removê-la conforme necessário.
+            this.produtosTableAdapter1.Fill(this.projetoLoginDataSet4.Produtos);
+
+            FillChart();
+        }
+       
+       
+        void FillChart()
+        {
+            SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-MT382KT\MSSQLSERVER01;Initial Catalog=ProjetoLogin;Integrated Security=True;Encrypt=False");
+            DataTable dt = new DataTable();
+            con.Open();
+            SqlDataAdapter da = new SqlDataAdapter("SELECT NomeProduto, Valor FROM Produtos", con); 
+            da.Fill(dt);
+            chart1.DataSource = dt;
+            con.Close();
+
+           
+            chart1.Series["NomeProduto"].XValueMember = "NomeProduto";
+            chart1.Series["NomeProduto"].YValueMembers = "Valor";
+            chart1.Titles.Add("Produtos");
+        }
+
+
+    }
+
+}
