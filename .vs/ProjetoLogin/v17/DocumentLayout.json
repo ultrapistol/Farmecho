@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\projetologin\\apresentacao\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|c:\\users\\matheus\\desktop\\projetopim 06-10-2024\\projetologin\\apresentacao\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\projetologin\\apresentacao\\formrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\formrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\projetologin\\apresentacao\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\projetologin\\apresentacao\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\projetologin\\apresentacao\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CC9D98-734E-4C32-A03F-7276FA24D6E0}|ProjetoLogin\\ProjetoLogin.csproj|solutionrelative:projetologin\\apresentacao\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\TelaInicial.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\TelaInicial.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\TelaInicial.cs",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\TelaInicial.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwLQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:02:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRelatorios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\FormRelatorios.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\FormRelatorios.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\FormRelatorios.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\FormRelatorios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:08:43.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA7wAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:36:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estoque.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Estoque.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Estoque.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T21:37:11.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:36:46.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vendas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "RelativeDocumentMoniker": "ProjetoLogin\\Apresentacao\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\ProjetoPIM 06-10-2024\\ProjetoLogin\\Apresentacao\\Vendas.cs [Design]",
+              "RelativeToolTip": "ProjetoLogin\\Apresentacao\\Vendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:15:59.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
