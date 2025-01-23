@@ -1,0 +1,124 @@
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormSubMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormSubMenu2.resources
+E:\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+E:\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+E:\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+E:\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+E:\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormSubMenu.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormSubMenu2.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+E:\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormSubMenu.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoLogin\PIMATUALIZADO\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastroProduto.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastroProduto.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\Dapper.dll
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\bin\Debug\Dapper.xml
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormCadastroCliente.resources
+C:\Users\Matheus\Desktop\ProjetoPIM\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadClient.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\Dapper.dll
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\Dapper.xml
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadClient.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormCadastroCliente.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastroProduto.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM 29-09-24\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\Dapper.dll
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\ReaLTaiizor.dll
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\Dapper.xml
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\bin\Debug\ReaLTaiizor.xml
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastreSe.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadClient.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormDashboard.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FormRelatorios.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.CadastroProduto.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.TelaInicial.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Login.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoL.83121A66.Up2Date
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.Estoque.resources
+C:\Users\Matheus\Desktop\ProjetoPIM 06-10-2024\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentacao.FaturaIdTxtBox.resources
