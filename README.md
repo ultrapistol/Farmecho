@@ -10,7 +10,9 @@ Farmecho é um software desenvolvido em C# utilizando .NET e Windows Forms, com 
 📦 Controle de Estoque: Gestão de insumos e produtos disponíveis.
 💰 Registro de Vendas: Acompanhamento das vendas realizadas e geração de relatórios.
 📊 Relatórios Personalizados: Criação de relatórios detalhados sobre a produção e vendas.
-🛠 Tecnologias Utilizadas
+
+🛠 Tecnologias Utilizadas:
+
 💻 Linguagem: C#
 ⚙️ Framework: .NET
 🖥 Interface Gráfica: Windows Forms
